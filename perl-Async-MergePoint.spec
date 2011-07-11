@@ -8,13 +8,13 @@
 Summary:	Async::MergePoint - resynchronise diverged control flow
 Summary(pl.UTF-8):	Async::MergePoint - ponowna synchronizacja rozdzielonego sterowania
 Name:		perl-Async-MergePoint
-Version:	0.03
+Version:	0.04
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/P/PE/PEVANS/Async-MergePoint-%{version}.tar.gz
-# Source0-md5:	f4a6f9a9dc0a1748f503c01893d544cc
+# Source0-md5:	e9055c122e02fd75c8d604bb1dca49ca
 URL:		http://search.cpan.org/dist/Async-MergePoint/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
